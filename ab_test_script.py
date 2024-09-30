@@ -19,7 +19,7 @@ def load_data():
 # Function to clean and process demographic data
 def clean_demo_data(df_demo):
     df_demo = df_demo.dropna(how='all', subset=df_demo.columns.difference(['client_id']))
-    df_demo['clnt_age'].fillna(df_demo['clnt_age'].mean(), inplace=True)
+    df_demo['clnt_age'].fillna(round(df_demo['clnt_age'].mean()), inplace=True)
     df_demo['gendr'].replace('X', 'U', inplace=True)
     return df_demo
 
