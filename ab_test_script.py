@@ -74,7 +74,7 @@ def summarize_time_by_client(df_merged):
 
 
 def summarize_error(df_merged):
-    df_merged['previous_step'] = df_merged.groupby(['client_id', 'visit_id', 'date_time'])['process_step'].shift(1)
+    df_merged['previous_step'] = df_merged.groupby(['client_id', 'visit_id'])['process_step'].shift(1)
     df_merged['error'] = df_merged['process_step'] < df_merged['previous_step']  # True si hay un regreso
     error_count_summary = df_merged.groupby('client_id')['error'].sum().reset_index()
     error_count_summary.columns = ['client_id', 'error_count']
