@@ -8,9 +8,9 @@ El proyecto utiliza múltiples etapas de procesamiento de datos, análisis estad
 
 ## Estructura del Repositorio
 
-- **ab_test_script.py**: Archivo con el código que incluye todo el procesamiento de datos necesario para llegar a los DataFrames finales.
+- **ab_test_script.py**: Archivo con el código que incluye todo el procesamiento de datos necesario para generar los DataFrames finales.
 - **Notebook (data_exploration.ipynb)**: Notebook con análisis exploratorio, visualización de los datos y pruebas de hipótesis.
-- **Archivos CSV**: Datos limpios generados por el script (`df_merged.csv`, `data_summary.csv`, `time_per_client_step.csv`, `df_combined.csv`).
+- **Archivos CSV**: Datos limpios generados por el script (`data_web_final.csv`, `data_summary.csv`, `time_per_client_step.csv`, `data_demo_final.csv`).
 - **Tableau File (experiment_dashboard.twbx)**: Visualización interactiva del análisis en Tableau.
 - **README.md**: Documento con la descripción del proyecto, pasos para ejecución y enlaces relevantes.
 
@@ -46,7 +46,7 @@ Los datos procesados fueron importados a **Tableau** para crear un **dashboard i
 - **Tasa de error** para identificar posibles cuellos de botella.
 - **Análisis demográfico**: Exploración de los resultados según la edad y el género de los clientes.
 
-El archivo de Tableau (`experiment_dashboard.twbx`) está incluido en este repositorio para su revisión.
+El archivo de Tableau (`vanguard-ab-test.twbx`) está incluido en este repositorio para su revisión.
 
 
 ## Requisitos
