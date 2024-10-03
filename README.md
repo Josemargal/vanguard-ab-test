@@ -11,7 +11,8 @@ El proyecto utiliza múltiples etapas de procesamiento de datos, análisis estad
 - **ab_test_script.py**: Archivo con el código que incluye todo el procesamiento de datos necesario para generar los DataFrames finales.
 - **Notebook (data_exploration.ipynb)**: Notebook con análisis exploratorio, visualización de los datos y pruebas de hipótesis.
 - **Archivos CSV**: Datos limpios generados por el script (`data_web_final.csv`, `data_summary.csv`, `time_per_client_step.csv`, `data_demo_final.csv`).
-- **Tableau File (experiment_dashboard.twbx)**: Visualización interactiva del análisis en Tableau.
+- **Tableau File (vanguard-ab-test.twbx)**: Visualización interactiva del análisis en Tableau.
+- **requirements.txt**: Contiene la lista de paquetes o bibliotecas necesarios para trabajar en el proyecto.
 - **README.md**: Documento con la descripción del proyecto, pasos para ejecución y enlaces relevantes.
 
 ## Datos
