@@ -61,8 +61,8 @@ El archivo de Tableau (`vanguard-ab-test.twbx`) está incluido en este repositor
 ## Recursos
 - Presentación: https://www.canva.com/design/DAGSgp8Fld8/_X72sZzLpzbL-T_SGa2h1w/edit?utm_content=DAGSgp8Fld8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 - Autores:
-Laura Ortiz Alameda - Linkedin:
-Jose Angel Martin Galeote - Linkedin: www.linkedin.com/in/jose-martin-galeote
+- Laura Ortiz Alameda - Linkedin:
+- Jose Angel Martin Galeote - Linkedin: www.linkedin.com/in/jose-martin-galeote
 
 
 
