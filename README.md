@@ -60,6 +60,7 @@ El archivo de Tableau (`vanguard-ab-test.twbx`) está incluido en este repositor
 
 ## Recursos
 - [Presentación](https://www.canva.com/design/DAGSgp8Fld8/_X72sZzLpzbL-T_SGa2h1w/edit?utm_content=DAGSgp8Fld8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Tableau](https://public.tableau.com/views/vanguard-ab-test_17279651570810/VisualizacionesABTest?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - Autores:
   - `Laura Ortiz Alameda` - [Linkedin](https://www.linkedin.com/in/laura-ortiz-alameda/)
   - `Jose Angel Martin Galeote` - [Linkedin](https://www.linkedin.com/in/jose-martin-galeote/)
