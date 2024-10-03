@@ -36,7 +36,7 @@ Los **KPIs** evaluados durante el análisis fueron:
 Se realizaron las siguientes pruebas estadísticas:
 - **Pruebas t de Student**: Comparar tiempos y métricas entre los grupos de control y prueba.
 - **Pruebas Chi-cuadrado**: Evaluar la independencia entre variables categóricas.
-- **Pruebas de Mann-Whitney**: Para comparar distribuciones no normales, como balance o antigüedad entre los grupos.
+- **Prueba Z**: Comparación de medias o proporciones entre los grupos de control y prueba.
 
 ## Visualización en Tableau
 
