@@ -50,7 +50,7 @@ El archivo de Tableau (`vanguard-ab-test.twbx`) está incluido en este repositor
 
 
 ## Requisitos
-- **Python 3.x** y las siguientes bibliotecas:
+- **Python 3.9** y las siguientes bibliotecas:
   - `pandas`
   - `seaborn`
   - `matplotlib`
